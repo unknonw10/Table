@@ -159,9 +159,10 @@ body{
 	margin: auto;
 }
 nav{
+	position: fixed;
     background: #1d4ab3;
     height: 50px;
-    width: 894px;
+    width: 100%;
     font-size: 30px;
     display: inline-block;
     margin-bottom: 30px;
