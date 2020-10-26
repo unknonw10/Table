@@ -138,7 +138,7 @@ button{
 }
 
 .subtitle {
-        margin: 0;
+        margin: auto;
         padding: 0 ;
         color: #fff;
         font-family: 'Courier New', Courier, monospace;
@@ -156,6 +156,7 @@ button{
 body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     width: auto;
+	margin: auto;
 }
 nav{
     background: #1d4ab3;
